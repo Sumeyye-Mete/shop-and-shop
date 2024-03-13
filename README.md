@@ -14,7 +14,7 @@ Here are a couple of screenshots from my project:
 <p>
   <img width="25%" alt="ss-phone" src="./img/Screenshot-phone.png" >
 <img  width="35%" alt="ss-phone" src="./img/Screenshot-desktop.png" >
-  <img  width="35%" alt="ss-phone" src="./img/Screenshot-desktop.png" >
+  <img  width="35%" alt="ss-phone" src="./img/Screenshot-desktop-dark.png" >
 </p>
 
 
