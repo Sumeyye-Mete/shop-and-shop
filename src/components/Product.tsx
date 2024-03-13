@@ -67,7 +67,7 @@ const Product = ({ product, inCart }: PropsType): ReactElement => {
 				{product.images.map((img, index) => (
 					<button
 						className=" hover:text-green-900 text-xl"
-						key={index}
+						key={`${img}-${index}`}
 						onClick={(e) => {
 							e.stopPropagation();
 							setActiveIndex(index);

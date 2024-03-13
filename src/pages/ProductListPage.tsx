@@ -2,7 +2,6 @@ import useCart from "../hooks/useCart";
 import useProducts from "../hooks/useProducts";
 import Product from "../components/Product";
 import PageHeader from "../components/PageHeader";
-import { useLocation } from "react-router-dom";
 import useMisc from "@/hooks/useMisc";
 import { menuOptions } from "@/helpers/menu";
 
@@ -10,7 +9,6 @@ const ProductListPage = () => {
 	const { products } = useProducts();
 	const { state } = useCart();
 	const { selectedGroup } = useMisc();
-	const title = useLocation().pathname;
 
 	let pageContent: JSX.Element[] | JSX.Element = <p>Loading...</p>;
 
