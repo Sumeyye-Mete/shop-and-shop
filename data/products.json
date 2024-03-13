@@ -1,0 +1,153 @@
+{
+	"products": [
+		{
+			"sku": "item0001",
+			"name": "Throw Pillow",
+			"price": 9.99,
+			"group": "bedroom",
+			"images": ["item0001a.jpg", "item0001b.jpg", "item0001c.jpg"],
+			"colors": ["#DF1738", "#E2A4D7", "#F4E3DC"]
+		},
+		{
+			"sku": "item0002",
+			"name": "Laptop Table",
+			"price": 19.99,
+			"group": "living-room",
+			"images": ["item0002a.jpg", "item0002b.jpg", "item0002c.jpg"],
+			"colors": ["#F3F3F1", "#BEBFC3", "#38BECB"]
+		},
+		{
+			"sku": "item0003",
+			"name": "Mirror",
+			"price": 29.99,
+			"group": "decor",
+			"images": ["item0003a.jpg", "item0003b.jpg"],
+			"colors": ["#AA8C77", "#DFC6A6"]
+		},
+		{
+			"sku": "item0004",
+			"name": "Wall Clock",
+			"price": 12.99,
+			"group": "living-room",
+			"images": ["item0004a.jpg", "item0004b.jpg", "item0004c.jpg"],
+			"colors": ["#CACACC", "#0D0F18", "#ED736C"]
+		},
+		{
+			"sku": "item0005",
+			"name": "Bookcase",
+			"price": 98.99,
+			"group": "office",
+			"images": ["item0005a.jpg", "item0005b.jpg", "item0005c.jpg"],
+			"colors": ["#EFF0EA", "#C5A58E", "#313131"]
+		},
+		{
+			"sku": "item0006",
+			"name": "Curtain",
+			"price": 48.99,
+			"group": "living-room",
+			"images": [
+				"item0006a.jpg",
+				"item0006b.jpg",
+				"item0006c.jpg",
+				"item0006d.jpg"
+			],
+			"colors": ["#B4ACA3", "#DED9D2", "#65757D", "#505141"]
+		},
+		{
+			"sku": "item0007",
+			"name": "Lantern",
+			"price": 29.99,
+			"group": "decor",
+			"images": ["item0007a.jpg", "item0007b.jpg", "item0007c.jpg"],
+			"colors": ["#F27970", "#D8D9D3", "#273845"]
+		},
+		{
+			"sku": "item0008",
+			"name": "Plant Stand",
+			"price": 59.79,
+			"group": "living-room",
+			"images": ["item0008a.jpg", "item0008b.jpg"],
+			"colors": ["#090B0A", "#B6B5BA"]
+		},
+		{
+			"sku": "item0009",
+			"name": "Plant Stand",
+			"price": 78.99,
+			"group": "living-room",
+			"images": ["item0009a.jpg", "item0009b.jpg"],
+			"colors": ["#090B0A", "#B6B5BA"]
+		},
+		{
+			"sku": "item0010",
+			"name": "Sofa",
+			"price": 299.99,
+			"group": "living-room",
+			"images": ["item0010a.jpg", "item0010b.jpg"],
+			"colors": ["#3C5086", "#4A4A4C"]
+		},
+		{
+			"sku": "item0011",
+			"name": "Chair",
+			"price": 249.99,
+			"group": "bedroom",
+			"images": ["item0011a.jpg", "item0011b.jpg", "item0011c.jpg"],
+			"colors": ["#262628", "#D1C6BD", "#557373"]
+		},
+		{
+			"sku": "item0012",
+			"name": "Blanket",
+			"price": 49.99,
+			"group": "bedroom",
+			"images": ["item0012a.jpg", "item0012b.jpg"],
+			"colors": ["#E0A022", "#648057"]
+		},
+		{
+			"sku": "item0013",
+			"name": "Stool",
+			"price": 39.99,
+			"group": "office",
+			"images": ["item0013a.jpg", "item0013b.jpg", "item0013c.jpg"],
+			"colors": ["#8FCBA5", "#9182B4", "#C2340F"]
+		},
+		{
+			"sku": "item0014",
+			"name": "Chair Cushion",
+			"price": 29.99,
+			"group": "office",
+			"images": ["item0014a.jpg", "item0014b.jpg", "item0014c.jpg"],
+			"colors": ["#C2BCB0", "#4D4C51", "#A9AFA1"]
+		},
+		{
+			"sku": "item0015",
+			"name": "Lamp",
+			"price": 49.99,
+			"group": "decor",
+			"images": ["item0015a.jpg", "item0015b.jpg", "item0015c.jpg"],
+			"colors": ["#080808", "#9E7A64", "#FFE8CD"]
+		},
+		{
+			"sku": "item0016",
+			"name": "Vase",
+			"price": 29.99,
+			"group": "decor",
+			"images": ["item0016a.jpg", "item0016b.jpg", "item0016c.jpg"],
+			"colors": ["#080808", "#9E7A64", "#FFE8CD"]
+		},
+		{
+			"sku": "item0017",
+			"name": "Clock",
+			"price": 29.99,
+			"group": "decor",
+			"images": ["item0017a.jpg", "item0017b.jpg", "item0017c.jpg"],
+			"colors": ["#080808", "#9E7A64", "#FFE8CD"]
+		},
+		{
+			"sku": "item0018",
+			"name": "Stool",
+			"price": 9.99,
+			"group": "decor",
+			"images": ["item0018a.jpg", "item0018b.jpg", "item0018c.jpg"],
+			"colors": ["#080808", "#9E7A64", "#FFE8CD"]
+		}
+	]
+}
