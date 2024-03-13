@@ -1,4 +1,5 @@
 import { ReactElement, createContext, useEffect, useState } from "react";
+import productsData from "../data/products.json";
 
 export type ProductType = {
 	sku: string;
@@ -22,7 +23,8 @@ type ChildrenType = {
 export const ProductsProvider = ({ children }: ChildrenType): ReactElement => {
 	const [products, setProducts] = useState<ProductType[]>([]);
 
-	useEffect(() => {
+	/* data fetching from JSON SERVER */
+	/* useEffect(() => {
 		const fetchData = async (): Promise<void> => {
 			try {
 				const resp = await fetch("http://localhost:3500/products");
@@ -33,6 +35,10 @@ export const ProductsProvider = ({ children }: ChildrenType): ReactElement => {
 			}
 		};
 		fetchData();
+	}, []); */
+
+	useEffect(() => {
+		setProducts(productsData.products);
 	}, []);
 
 	return (
