@@ -13,7 +13,6 @@ type PropType = {
 const CartLineItem = ({ item }: PropType) => {
 	const { changeQuantity, removeItem, addItem } = useCart();
 	const navigate = useNavigate();
-	console.log(item);
 
 	const lineTotal: number = item.quantity * item.price;
 
