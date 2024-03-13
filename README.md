@@ -28,7 +28,7 @@ Here are a couple of screenshots from my project:
 
 ### Links
 - git clone : https://github.com/Sumeyye-Mete/shop-and-shop.git
-- live site URL : 
+- live site URL : https://shopandshop.netlify.app
 
 
 
