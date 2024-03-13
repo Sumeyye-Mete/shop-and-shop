@@ -6,7 +6,7 @@ Welcome to my web page project, where I've used React + TypeScript + Vite and Ta
 
 ## Project Overview
 
-This e-commerce website built with React, TypeScript, Vite, and Tailwind CSS delivers a user-friendly shopping experience with intuitive navigation, seamless product browsing,synchronized dark/light theme, and convenient cart management. The project showcases the integration of modern frontend technologies to create a responsive and visually appealing web application tailored for e-commerce functionality. 
+This e-commerce website built with React, TypeScript, Vite, and Tailwind CSS delivers a user-friendly shopping experience with intuitive navigation, seamless product browsing and searching, synchronized dark/light theme, and convenient cart management. The project showcases the integration of modern frontend technologies to create a responsive and visually appealing web application tailored for e-commerce functionality. 
 
 ## Screenshots
 

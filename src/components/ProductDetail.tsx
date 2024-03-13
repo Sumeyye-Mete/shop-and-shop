@@ -29,8 +29,6 @@ const ProductDetail = ({ product }: PropsType) => {
 			setLoadingCart(false);
 		}, 1000);
 	};
-	console.log(product);
-	console.log(activeIndex);
 
 	if (!product) {
 		return <div>404</div>;

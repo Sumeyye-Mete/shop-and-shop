@@ -47,7 +47,6 @@ const CartLineItem = ({ item }: PropType) => {
 			<div className="cart-line-item-details">
 				<div>{item.name}</div>
 				<div>{convertToCurrency(item.price)}</div>
-				<label htmlFor={`itemQty-${item.sku}`} className=" hidden"></label>
 				<div className="flex">
 					{item.colors.map((color, index) => (
 						<button
@@ -67,9 +66,13 @@ const CartLineItem = ({ item }: PropType) => {
 					))}
 				</div>
 				<div>
+					<label
+						htmlFor={`itemQty-${item.sku}-${item.selectedColor}`}
+						className="hidden"
+					></label>
 					<select
 						name="itemQty"
-						id={`itemQty-${item.sku}`}
+						id={`itemQty-${item.sku}-${item.selectedColor}`}
 						value={item.quantity}
 						aria-label="item quantity"
 						onChange={onChangeQuantity}
