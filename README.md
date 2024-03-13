@@ -1,30 +1,32 @@
+# Shop & Shop App
+
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my web page project, where I've used React + TypeScript + Vite and tailwind to create a simple e commerce site - shop&shop. 
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This web application serves as a user-friendly, responsive e-commerce site. Dark/light theme of app is synchronized the dark/light theme of system preferences. 
 
-## Expanding the ESLint configuration
+## Screenshots
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Here are a couple of screenshots from my project:
+<p>
+  <img width="25%" alt="ss-phone" src="./img/Screenshot-phone.png" >
+<img  width="70%" alt="ss-phone" src="./img/Screenshot-desktop.png" >
+</p>
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Technologies Used
+- Vite
+- React
+- TypeScript
+- Tailwind
+- shad/cn (tailwind ui)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Links
+- git clone : https://github.com/Sumeyye-Mete/shop-and-shop.git
+- live site URL : 
+
+
+
