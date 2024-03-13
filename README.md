@@ -11,10 +11,11 @@ This e-commerce website built with React, TypeScript, Vite, and Tailwind CSS del
 ## Screenshots
 
 Here are a couple of screenshots from my project:
+
+<img  width="100%" alt="ss-phone" src="./img/Screenshot-desktop.png" >
 <p>
   <img width="25%" alt="ss-phone" src="./img/Screenshot-phone.png" >
-<img  width="35%" alt="ss-phone" src="./img/Screenshot-desktop.png" >
-  <img  width="35%" alt="ss-phone" src="./img/Screenshot-desktop-dark.png" >
+  <img  width="70%" alt="ss-phone" src="./img/Screenshot-desktop-dark.png" >
 </p>
 
 
